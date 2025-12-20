@@ -1,113 +1,95 @@
-🔒 RAG Platform – Public Overview
-📌 À propos
+# 🔒 RAG Platform – Public Overview
 
-Ce dépôt public présente la description, l’architecture et les objectifs d’une plateforme Retrieval-Augmented Generation (RAG) complète.
+## 📌 À propos
 
-👉 Le code source complet est hébergé dans un dépôt privé, pour les raisons suivantes :
+Ce dépôt public présente la description, l’architecture et les objectifs d’une plateforme **Retrieval-Augmented Generation (RAG)** complète.
 
-protection de la propriété intellectuelle,
+👉 Le code source complet est hébergé dans un dépôt privé, pour des raisons de :
+- protection de la propriété intellectuelle,
+- sécurité (clés, configurations, pipelines),
+- usage professionnel et démonstration contrôlée.
 
-sécurité (clés, configurations, pipelines),
+---
 
-usage professionnel et démonstration contrôlée.
+## 🚀 Présentation du projet
 
-🚀 Présentation du projet
+Cette plateforme RAG est conçue comme une **architecture full-stack orientée production**, combinant :
+- ingestion de documents multi-formats (PDF, Excel, images),
+- extraction et chunking intelligent,
+- génération d’embeddings vectoriels,
+- recherche sémantantique (vector DB),
+- génération de réponses via modèles IA (LLM),
+- interface web moderne pour l’interaction utilisateur.
 
-Cette plateforme RAG est conçue comme une architecture full-stack orientée production, combinant :
+Le projet suit une **approche microservices**, avec une forte attention portée à :
+- la scalabilité,
+- la maintenabilité,
+- l’industrialisation.
 
-ingestion de documents multi-formats (PDF, Excel, images),
+---
 
-extraction et chunking intelligent,
+## 🏗️ Architecture
 
-génération d’embeddings vectoriels,
+### Backend
+- FastAPI (microservices)
 
-recherche sémantique (vector database),
+### Vector Database & Search
+- PostgreSQL + pgvector
+- Elasticsearch
 
-génération de réponses via modèles IA (LLM),
+### Storage & Cache
+- MinIO (S3 compatible)
+- Redis
 
-interface web moderne pour l’interaction utilisateur.
+### Frontend
+- React
+- TypeScript
+- Tailwind CSS
 
-Le projet adopte une approche microservices, avec un fort accent sur :
+### Orchestration
+- Docker
+- Docker Compose
 
-la scalabilité,
+---
 
-la maintenabilité,
+## 📂 Accès au code
 
-l’industrialisation.
+### 🔐 Code privé
 
-🏗️ Architecture
-🔧 Backend
+Le code source complet (backend, frontend, infrastructure, pipelines) est disponible dans un **repository privé**.
 
-FastAPI (microservices indépendants)
+### 📩 Accès sur demande
 
-🧠 Recherche & Vectorisation
+Un accès peut être accordé dans un cadre :
+- professionnel,
+- académique,
+- entretien technique,
+- collaboration ou audit.
 
-PostgreSQL + pgvector (vector database)
+Merci de me contacter directement pour toute demande d’accès.
 
-Elasticsearch (recherche full-text)
+---
 
-📦 Stockage & Cache
+## 🎯 Objectifs techniques démontrés
 
-MinIO (S3 compatible)
+- Conception d’une plateforme IA end-to-end
+- Architecture microservices orientée production
+- Traitement de données non structurées
+- Recherche sémantique et RAG
+- Intégration LLM et services IA
+- Frontend moderne connecté à des APIs IA
 
-Redis (cache et sessions)
+---
 
-🎨 Frontend
+## 👤 Auteur
 
-React
+Projet conçu et développé par **Kader**  
+*(Data / AI / Platform Engineering)*
 
-TypeScript
+---
 
-Tailwind CSS
+## 📅 Statut
 
-🚢 Orchestration
-
-Docker
-
-Docker Compose
-
-📂 Accès au code
-🔐 Code privé
-
-Le code source complet (backend, frontend, infrastructure, pipelines) est volontairement hébergé dans un repository privé.
-
-📩 Accès sur demande
-
-Un accès peut être accordé dans les contextes suivants :
-
-cadre professionnel,
-
-contexte académique,
-
-entretien technique,
-
-collaboration ou audit.
-
-📬 Merci de me contacter directement pour toute demande d’accès.
-
-🎯 Objectifs techniques démontrés
-
-Conception d’une plateforme IA end-to-end
-
-Architecture microservices orientée production
-
-Traitement de données non structurées
-
-Implémentation complète RAG
-
-Intégration LLM & services IA
-
-Frontend moderne connecté à des APIs IA
-
-👤 Auteur
-
-Projet conçu et développé par Kader
-Data · AI · Platform Engineering
-
-📅 Statut du projet
-
-🟢 Projet actif
-
-🔄 Évolutions continues
-
-📦 Version privée stable
+- 🟢 Projet actif
+- 🔄 Évolutions continues
+- 📦 Version privée stable
