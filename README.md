@@ -56,7 +56,7 @@ Le projet suit une **approche microservices**, avec une forte attention portée 
 
 ### 🔐 Code privé
 
-Le code source complet (backend, frontend, infrastructure, pipelines) est disponible dans un **repository privé** celui-ci "Retrieval-Augmented-Generative-Platform".
+Le code source complet (backend, frontend, infrastructure, pipelines) est disponible dans un **repository privé** celui-ci "Retrieval-Augmented-Generative-Platform-code".
 
 ### 📩 Accès sur demande
 
