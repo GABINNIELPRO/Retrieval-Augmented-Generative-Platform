@@ -1,9 +1,9 @@
-# 🔒 RAG Platform – Public Overview
+🔒 RAG Platform – Public Overview
 📌 À propos
 
 Ce dépôt public présente la description, l’architecture et les objectifs d’une plateforme Retrieval-Augmented Generation (RAG) complète.
 
-👉 Le code source complet est hébergé dans un dépôt privé, pour des raisons de :
+👉 Le code source complet est hébergé dans un dépôt privé, pour les raisons suivantes :
 
 protection de la propriété intellectuelle,
 
@@ -21,48 +21,69 @@ extraction et chunking intelligent,
 
 génération d’embeddings vectoriels,
 
-recherche sémantique (vector DB),
+recherche sémantique (vector database),
 
 génération de réponses via modèles IA (LLM),
 
 interface web moderne pour l’interaction utilisateur.
 
-Le projet suit une approche microservices, avec une forte attention portée à la scalabilité, la maintenabilité et l’industrialisation.
+Le projet adopte une approche microservices, avec un fort accent sur :
 
-🏗️ Architecture (vue synthétique)
+la scalabilité,
 
-Backend : FastAPI (microservices)
+la maintenabilité,
 
-Vector DB : PostgreSQL + pgvector
+l’industrialisation.
 
-Search : Elasticsearch
+🏗️ Architecture
+🔧 Backend
 
-Storage : MinIO (S3 compatible)
+FastAPI (microservices indépendants)
 
-Cache : Redis
+🧠 Recherche & Vectorisation
 
-Frontend : React + TypeScript + Tailwind
+PostgreSQL + pgvector (vector database)
 
-Orchestration : Docker & Docker Compose
+Elasticsearch (recherche full-text)
+
+📦 Stockage & Cache
+
+MinIO (S3 compatible)
+
+Redis (cache et sessions)
+
+🎨 Frontend
+
+React
+
+TypeScript
+
+Tailwind CSS
+
+🚢 Orchestration
+
+Docker
+
+Docker Compose
 
 📂 Accès au code
-
 🔐 Code privé
 
-Le code source complet (backend, frontend, infrastructure, pipelines) est disponible dans un repository privé.
+Le code source complet (backend, frontend, infrastructure, pipelines) est volontairement hébergé dans un repository privé.
 
 📩 Accès sur demande
-Un accès peut être accordé dans un cadre :
 
-professionnel,
+Un accès peut être accordé dans les contextes suivants :
 
-académique,
+cadre professionnel,
+
+contexte académique,
 
 entretien technique,
 
 collaboration ou audit.
 
-Merci de me contacter directement pour toute demande d’accès.
+📬 Merci de me contacter directement pour toute demande d’accès.
 
 🎯 Objectifs techniques démontrés
 
@@ -72,18 +93,18 @@ Architecture microservices orientée production
 
 Traitement de données non structurées
 
-Recherche sémantique et RAG
+Implémentation complète RAG
 
-Intégration LLM et services IA
+Intégration LLM & services IA
 
 Frontend moderne connecté à des APIs IA
 
 👤 Auteur
 
 Projet conçu et développé par Kader
-(Data / AI / Platform Engineering)
+Data · AI · Platform Engineering
 
-📅 Statut
+📅 Statut du projet
 
 🟢 Projet actif
 
