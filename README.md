@@ -89,22 +89,8 @@ Ce dépôt public présente la description, l'architecture et les résultats d'u
 
 Le back-end est découpé en **10 microservices FastAPI** conteneurisés avec Docker et déployés sur un serveur Hetzner.
 
-```mermaid
-flowchart LR
-    A[Documents<br/>PDF · Word · Excel · images] --> B[Extraction Markdown<br/>+ description d'images]
-    B --> C[Chunking]
-    C --> D[Embeddings]
-    D --> E[(PostgreSQL<br/>+ pgvector)]
-    C --> F[(Elasticsearch<br/>BM25)]
-    A --> M[(MinIO<br/>stockage S3)]
+<img width="1167" height="183" alt="image" src="https://github.com/user-attachments/assets/98a11af8-0d9e-41e1-b4ec-294dd4164c33" />
 
-    U[Utilisateur<br/>React] --> Q[Recherche hybride]
-    E --> Q
-    F --> Q
-    Q --> L[LLM]
-    L --> U
-    R[(Redis<br/>cache)] -.-> Q
-```
 
 | Couche | Technologies |
 |---|---|
