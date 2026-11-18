@@ -75,7 +75,7 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 Built With
-![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Python](https://miro.medium.com/1*3IcLSFuT8PQg4cUBaRXH1A.png)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
