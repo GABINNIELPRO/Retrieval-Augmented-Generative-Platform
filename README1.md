@@ -76,13 +76,12 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 
 Built With
 ![Python](https://miro.medium.com/1*3IcLSFuT8PQg4cUBaRXH1A.png)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original)
+![ElasticSearch]([https://miro.medium.com/1*3IcLSFuT8PQg4cUBaRXH1A.png](https://miro.medium.com/v2/resize:fit:2000/1*DfBbVqPXfIXGFQCa1BrV8g.jpeg))
+![Postgres]([https://miro.medium.com/1*3IcLSFuT8PQg4cUBaRXH1A.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmuXhlo92JSv73kM7cO2wfXI97YrOzydwkb-jeh4Ga9g&s=10))
+![Minio](https://blent.ai/_next/image?url=https%3A%2F%2Fblent-static-media.s3.eu-west-3.amazonaws.com%2Fphotos%2Fblog%2Fminio-logo.png&w=3840&q=75)
+![React](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5agxXUSsI3J6nJYssKdxaZEO5xpTCsh4P6U4qKGXH2w&s=10)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
