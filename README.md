@@ -1,17 +1,17 @@
-# 🔒 RAG Platform – Public Overview
+# RAG Platform – Public Overview
 
-## 📌 À propos
+## À propos
 
 Ce dépôt public présente la description, l’architecture et les objectifs d’une plateforme **Retrieval-Augmented Generation (RAG)** complète.
 
-👉 Le code source complet est hébergé dans un dépôt privé, pour des raisons de :
+Le code source complet est hébergé dans un dépôt privé, pour des raisons de :
 - protection de la propriété intellectuelle,
 - sécurité (clés, configurations, pipelines),
 - usage professionnel et démonstration contrôlée.
 
 ---
 
-## 🚀 Présentation du projet
+## Présentation du projet
 
 Cette plateforme RAG est conçue comme une **architecture full-stack orientée production**, combinant :
 - ingestion de documents multi-formats (PDF, Excel, images),
@@ -28,7 +28,7 @@ Le projet suit une **approche microservices**, avec une forte attention portée 
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ### Backend
 - FastAPI (microservices)
@@ -52,44 +52,6 @@ Le projet suit une **approche microservices**, avec une forte attention portée 
 
 ---
 
-## 📂 Accès au code
+## Demonstration
 
-### 🔐 Code privé
-
-Le code source complet (backend, frontend, infrastructure, pipelines) est disponible dans un **repository privé** celui-ci "Retrieval-Augmented-Generative-Platform-code".
-
-### 📩 Accès sur demande
-
-Un accès peut être accordé dans un cadre :
-- professionnel,
-- académique,
-- entretien technique,
-- collaboration ou audit.
-
-Merci de me contacter directement pour toute demande d’accès.
-
----
-
-## 🎯 Objectifs techniques démontrés
-
-- Conception d’une plateforme IA end-to-end
-- Architecture microservices orientée production
-- Traitement de données non structurées
-- Recherche sémantique et RAG
-- Intégration LLM et services IA
-- Frontend moderne connecté à des APIs IA
-
----
-
-## 👤 Auteur
-
-Projet conçu et développé par **Kader**  
-*(Data / AI / Platform Engineering)*
-
----
-
-## 📅 Statut
-
-- 🟢 Projet actif
-- 🔄 Évolutions continues
-- 📦 Version privée stable
+![alt text](Capture d'écran 2026-11-18 104035.png)
