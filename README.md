@@ -54,4 +54,4 @@ Le projet suit une **approche microservices**, avec une forte attention portée 
 
 ## Demonstration
 
-![alt text](Capture d'écran 2026-11-18 104035.png)
+![alt text](Presentation_docs.png)
