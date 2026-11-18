@@ -77,12 +77,12 @@ https://github.com/user-attachments/assets/8f929062-1d0e-4a32-a926-9ca813326004
 
 ### Réponse par mot lé et sémantique + image
 https://github.com/user-attachments/assets/69306bf9-fe78-42c8-aae8-238ecb61edf0
+https://github.com/user-attachments/assets/a4cbe0db-a47f-4421-a496-4d733eaaca95
 
 ### Réponse par texte uniquement
 https://github.com/user-attachments/assets/ccdb2673-ea68-4d3b-87de-baeb8ac18c79
 
-### Presentation
-https://github.com/user-attachments/assets/a4cbe0db-a47f-4421-a496-4d733eaaca95
+
 
 
 
