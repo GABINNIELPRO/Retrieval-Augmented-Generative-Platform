@@ -52,62 +52,92 @@ Le projet suit une **approche microservices**, avec une forte attention portée 
 
 ---
 
-## Demonstration
+## Démonstration
 
-### Presentation
+### Présentation
+
 https://github.com/user-attachments/assets/d11c8c0a-2380-40a0-95d7-6de04653331b
 
-### Description Image
+### Pipeline d'ingestion
+
+<table>
+<tr>
+<td width="50%">
+
+**Description d'image**
+
 https://github.com/user-attachments/assets/4c4a090f-716c-461c-9e1b-2f820efc2fb0
 
-### Extraction Markdown
+</td>
+<td width="50%">
+
+**Extraction Markdown**
+
 https://github.com/user-attachments/assets/cef341c4-188f-4d79-af28-841798fd7024
 
-### Chunking
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Chunking**
+
 https://github.com/user-attachments/assets/1ef7bad2-5bdb-4be6-a755-97a386865314
 
-### Embedding
+</td>
+<td width="50%">
+
+**Embedding**
+
 https://github.com/user-attachments/assets/aabf896b-81ad-4559-9525-cbcb4225cee0
 
-### Réponse par mot clé
+</td>
+</tr>
+</table>
+
+### Recherche et réponses
+
+<table>
+<tr>
+<td width="50%">
+
+**Réponse par mot-clé**
+
 https://github.com/user-attachments/assets/1667cab4-e63b-45ff-8eb6-347479ebf81f
 
-### Réponse mot clé et sémantique
+</td>
+<td width="50%">
+
+**Réponse mot-clé + sémantique**
+
 https://github.com/user-attachments/assets/8f929062-1d0e-4a32-a926-9ca813326004
 
-### Réponse par mot clé et sémantique + image
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Mot-clé + sémantique + image (1)**
+
 https://github.com/user-attachments/assets/69306bf9-fe78-42c8-aae8-238ecb61edf0
 
+</td>
+<td width="50%">
+
+**Mot-clé + sémantique + image (2)**
 
 https://github.com/user-attachments/assets/a4cbe0db-a47f-4421-a496-4d733eaaca95
 
-### Réponse par texte uniquement
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Réponse texte uniquement**
+
 https://github.com/user-attachments/assets/ccdb2673-ea68-4d3b-87de-baeb8ac18c79
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</td>
+<td width="50%"></td>
+</tr>
+</table>
