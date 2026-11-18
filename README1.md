@@ -75,12 +75,14 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 Built With
-![Python](https://miro.medium.com/1*3IcLSFuT8PQg4cUBaRXH1A.png)
-![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original)
-![ElasticSearch]([https://miro.medium.com/1*3IcLSFuT8PQg4cUBaRXH1A.png](https://miro.medium.com/v2/resize:fit:2000/1*DfBbVqPXfIXGFQCa1BrV8g.jpeg))
-![Postgres]([https://miro.medium.com/1*3IcLSFuT8PQg4cUBaRXH1A.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmuXhlo92JSv73kM7cO2wfXI97YrOzydwkb-jeh4Ga9g&s=10))
-![Minio](https://blent.ai/_next/image?url=https%3A%2F%2Fblent-static-media.s3.eu-west-3.amazonaws.com%2Fphotos%2Fblog%2Fminio-logo.png&w=3840&q=75)
-![React](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5agxXUSsI3J6nJYssKdxaZEO5xpTCsh4P6U4qKGXH2w&s=10)
+<p align="left">
+  <img src="https://miro.medium.com/1*3IcLSFuT8PQg4cUBaRXH1A.png" alt="Python" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" height="40">
+  <img src="https://miro.medium.com/v2/resize:fit:2000/1*DfBbVqPXfIXGFQCa1BrV8g.jpeg" alt="Elasticsearch" height="40">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmuXhlo92JSv73kM7cO2wfXI97YrOzydwkb-jeh4Ga9g&s=10" alt="PostgreSQL" height="40">
+  <img src="https://blent-static-media.s3.eu-west-3.amazonaws.com/photos/blog/minio-logo.png" alt="MinIO" height="40">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5agxXUSsI3J6nJYssKdxaZEO5xpTCsh4P6U4qKGXH2w&s=10" alt="React" height="40">
+</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
